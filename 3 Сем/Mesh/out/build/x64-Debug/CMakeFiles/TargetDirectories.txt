@@ -1,0 +1,3 @@
+C:/Users/Pascal/Desktop/Mesh/out/build/x64-Debug/CMakeFiles/laboratory_work_1_2.dir
+C:/Users/Pascal/Desktop/Mesh/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Pascal/Desktop/Mesh/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

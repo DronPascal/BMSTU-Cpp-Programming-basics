@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<highlighting>
+    <language>
+        <extentions>.cc.cpp.cxx.c.c++.h.hpp.hh.hxx.h++</extentions>
+        <keywords>alignas/nalignof/nand/nand_eq/nasm/nauto/nbitand/nbitor/nbool/nbreak/ncase/ncatch/nchar/nchar16_t/nchar32_t/nclass/ncompl/nconst/nconstexpr/nconst_cast/ncontinue/ndecltype/ndefault/ndelete/ndo/ndouble/ndynamic_cast/nelse/nenum/nexplicit/nexport/nextern/nfalse/nfloat/nfor/nfriend/ngoto/nif/ninline/nint/nlong/nmutable/nnamespace/nnew/nnoexcept/nnot/nnot_eq/nnullptr/noperator/nor/nor_eq/nprivate/nprotected/npublic/nregister/nreinterpret_cast/nreturn/nshort/nsigned/nsizeof/nstatic/nstatic_assert/nstatic_cast/nstruct/nswitch/ntemplate/nthis/nthread_local/nthrow/ntrue/ntry/ntypedef/ntypeid/ntypename/nunion/nunsigned/nusing/nvirtual/nvoid/nvolatile/nwchar_t/nwhile/nxor/nxor_eq/noverride/nfinal</keywords>
+    </language>
+
+    <language>
+        <extentions>.cs</extentions>
+        <keywords>abstract/nas/nbase/nbool/n/nbreak/nbyte/ncase/ncatch/n/nchar/nchecked/nclass/nconst/n/ncontinue/ndecimal/ndefault/ndelegate/n/ndo/ndouble/nelse/nenum/n/nevent/nexplicit/nextern/nfalse/n/nfinally/nfixed/nfloat/nfor/n/nforeach/ngoto/nif/nimplicit/n/nin/nint/ninterface/ninternal/n/nis/nlock/nlong/nnamespace/n/nnew/nnull/nobject/noperator/n/nout/noverride/nparams/nprivate/n/nprotected/npublic/nreadonly/nref/n/nreturn/nsbyte/nsealed/nshort/n/nsizeof/nstackalloc/nstatic/nstring/n/nstruct/nswitch/nthis/nthrow/n/ntrue/ntry/ntypeof/nuint/n/nulong/nunchecked/nunsafe/nushort/n/nusing/nusing static/nvirtual/nvoid/n/nvolatile/nwhile/nadd/nalias/nascending/nasync/nawait/nby/ndescending/ndynamic/nequals/nfrom/nget/nglobal/ngroup/ninto/njoin/nlet/nnameof/non/norderby/npartial/npartial/nremove/nselect/nset/nunmanaged/nvalue/nvar/nwhen/nwhere/nwhere</keywords>
+    </language>
+
+    <language>
+        <extentions>.py.pyw.pyc.pyo.pyd</extentions>
+        <keywords>and/nelif/nif/nprint/nas/nelse/nimport/nraise/nassert/nexcept/nin/nreturn/nbreak/nexec/nis/ntry/nclass/nfinally/nlambda/nwhile/ncontinue/nfor/nnot/nwhich/ndef/nfrom/nor/nyield/ndel/nglobal/npass</keywords>
+    </language>
+
+    <language>
+        <extentions>.qml</extentions>
+        <keywords>absolute/nbaction/nbabort/nbactive/nbadd/nbafter/nball/nballocate/nbalter/nbanalyze/nband/nbany/nbare/nbas/nbascending/nbassertion/nbat/nbauthorization/nbauto/nbauto-increment/nbautoinc/nbavg/nbbackup/nbbefore/nbbegin/nbbetween/nbbigint/nbbinary/nbbit/nbblob/nbboolean/nbboth/nbbreak/nbbrowse/nbbulk/nbby/nbbytes/nbcache/nbcall/nbcascade/nbcascaded/nbcase/nbcast/nbcatalog/nbchange/nbchar/nbcharacter/nbcharacterj^ength/nbcheck/nbcheckpoint/nbclose/nbcluster/nbclustered/nbcoalesce/nbcollate/nbcolumn/nbcolumns/nbcomment/nbcommit/nbcommitted/nbcompute/nbcomputed/nbconditional/nbconfirm/nbconnect/nbconnection/nbconstraint/nbconstraints/nbcontaining/nbcontains/nbcontainstable/nbcontinue/nbcontrolrow/nbconvert/nbcopy/nbcount/nbcreate/nbcross/nbcstring/nbcube/nbcurrent/nbcurrent_date/nbcurrentjtime/nbcurrent_timestamp/nbcurrent_user/nbcursor/nbdatabase/nbdatabases/nbdate/nbdatetime/nbday/nbdbcc/nbdeallocate decimal/nbdebug declare/nbdec default/nbdelete/nbdeny/nbdesc/nbdescending disk/nbdiv/nbdescribe distinct do/nbdisconnect distributed domain/nbdouble/nbdrop/nbdummy/nbdump/nbelse/nbelseif/nbenclosed/nbend/nberrlvl/nberrorexit/nbescape/nbescaped/nbexcept/nbexception/nbexec/nbexecute/nbexists/nbexit/nbexplain/nbextend/nbexternal/nbextract/nbfalse/nbfetch/nbfield/nbfields/nbfile/nbfillfactor/nbfilter/nbfloat/nbfloppy/nbfor/nbforce/nbforeign/nbfound/nbfreetext/nbfreetexttable/nbfrom/nbfull/nbfunction/nbgenerator/nbget/nbglobal/nbgo/nbgoto/nbgrant/nbgroup/nbhaving/nbholdlock/nbhour/nbidentity/nbif/nbin/nbinactive/nbindex/nbindicator/nbinfile/nbinner/nbinout/nbinput/nbinsensitive/nbinsert/nbint/nbinteger/nbintersect/nbinterval/nbinto/nbis/nbisolation/nbjoin/nbkey/nbkill/nblanguage/nblast/nbleading/nbleft/nblength/nblevel/nblike/nblimit/nblineno/nblines/nblisten/nbload/nblocal/nblock/nblogfile/nblong/nblower/nbmanual/nbmatch/nbmax/nbmerge/nbmessage/nbmin/nbminute/nbmirrorexit/nbmodule/nbmoney/nbmonth/nbmove/nbnames/nbnational/nbnatural/nbnchar/nbnext/nbnew/nbno/nbnocheck/nbnonclustered/nbnone/nbnot/nbnull/nbnullif/nbnumeric/nbof/nboff/nboffset/nboffsets/nbon/nbonce/nbonly/nbopen/nboption/nbor/nborder/nbouter/nboutput/nbover/nboverflow/nboverlaps/nbpad/nbpage/nbpages/nbparameter/nbpartial/nbpassword/nbpercent/nbperm/nbpermanent/nbpipe/nbplan/nbposition/nbprecision/nbprepare/nbprimary/nbprint/nbprior/nbprivileges/nbproc/nbprocedure/nbprocessexit/nbprotected/nbpublic/nbpurge/nbraiserror/nbread/nbreadtext/nbreal/nbreferences/nbregexp/nbrelative/nbrename/nbrepeat/nbreplace/nbreplication/nbrequire/nbreserv/nbreserving/nbreset/nbrestore/nbrestrict/nbretain/nbreturn/nbreturns/nbrevoke/nbright/nbrollback/nbrollup/nbrowcount/nbrule/nbsave/nbsavepoint/nbschema/nbsecond/nbsection/nbsegment/nbselect/nbsensitive/nbseparator/nbsequence/nbsession_user/nbset/nbsetuser/nbshadow/nbshared/nbshow/nbshutdown/nbsingular/nbsize/nbsmallint/nbsnapshot/nbsome/nbsort/nbspace/nbsql/nbsqlcode/nbsqlerror/nbstability/nbstarting/nbstarts/nbstatistics/nbsubstring/nbsum/nbsuspend/nbtable/nbtables/nbtape/nbtemp/nbtemporary/nbthen/nbto/nbtran/nbtrigger/nbtruncate/nbunique/nbupdatetext/nbuse/nbvalue/nbvariable/nbview/nbwaitfor/nbwhile/nbwrite/nbyear/nbtext/nbtime/nbtop/nbtransaction/nbtrim/nbuncommitted/nbuntil/nbupper/nbuser/nbvalues/nbvarying/nbvolume/nbwhen/nbwith/nbwritetext/nbzone/nbtextsize/nbtimestamp/nbtrailing/nbtranslate/nbtrue/nbunion/nbupdate/nbusage/nbusing/nbvarchar/nbverbose/nbwait/nbwhere/nbwork/nbxor</keywords>
+    </language>
+
+    <language>
+        <extentions>.js</extentions>
+        <keywords>abstract/narguments/nawait/nbooleanbreak/nbyte/ncase/ncatchchar/nclass/nconst/ncontinuedebugger/ndefault/ndelete/ndodouble/nelse/nenum/nevalexport/nextends/nfalse/nfinalfinally/nfloat/nfor/nfunctiongoto/nif/nimplements/nimportin/ninstanceof/nint/ninterfacelet/nlong/nnative/nnewnull/npackage/nprivate/nprotectedpublic/nreturn/nshort/nstaticsuper/nswitch/nsynchronized/nthisthrow/nthrows/ntransient/ntruetry/ntypeof/nvar/nvoidvolatile/nwhile/nwith/nyield</keywords>
+    </language>
+
+    <language>
+        <extentions>.java.class.jar</extentions>
+        <keywords>abstract/nassert/nboolean/nbreak/nbyte/ncase/ncatch/nchar/nclass/nconst/ncontinue/ndefault/ndo/ndouble/nelse/nenum/nextends/nfinal/nfinally/nfloat/nfor/ngoto/nif/nimplements/nimport/ninstanceof/nint/ninterface/nlong/nnative/nnew/npackage/nprivate/nprotected/npublic/nreturn/nshort/nstatic/nstrictfp/nsuper/nswitch/nsynchronized/nthis/nthrow/nthrows/ntransient/ntry/nvoid/nvolatile/nwhile</keywords>
+    </language>
+
+    <language>
+        <extentions>.php.phtml.php4.php3.php5.phps.phar</extentions>
+        <keywords>__halt_compiler()/nabstract/nand/narray()/nas/nbreak/ncallable/ncase/ncatch/nclass/nclone/nconst/ncontinue/ndeclare/ndefault/ndie()/ndo/necho/nelse/nelseif/nempty()/nenddeclare/nendfor/nendforeach/nendif/nendswitch/nendwhile/neval()/nexit()/nextends/nfinal/nfinally/nfor/nforeach/nfunction/nglobal/ngoto/nif/nimplements/ninclude/ninclude_once/ninstanceof/ninsteadof/ninterface/nisset()/nlist()/nnamespace/nnew/nor/nprint/nprivate/nprotected/npublic/nrequire/nrequire_once/nreturn/nstatic/nswitch/nthrow/ntrait/ntry/nunset()/nuse/nvar/nwhile/nxor/nyield/nyieldfrom</keywords>
+    </language>
+
+</highlighting>

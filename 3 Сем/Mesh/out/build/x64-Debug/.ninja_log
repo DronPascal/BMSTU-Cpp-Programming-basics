@@ -1,0 +1,7 @@
+# ninja log v5
+20	490	592574937	CMakeFiles/laboratory_work_1_2.dir/DataStructures.cpp.obj	3ca0ea8e3b0959d2
+18	491	592574937	CMakeFiles/laboratory_work_1_2.dir/NeuMeshLoader.cpp.obj	e7f5063a8d80d92e
+4	509	592574937	CMakeFiles/laboratory_work_1_2.dir/AneuMeshLoader.cpp.obj	ed6d28ef5c5b1371
+14	510	592574937	CMakeFiles/laboratory_work_1_2.dir/main.cpp.obj	ed6797d9d86807b4
+1	715	592574938	CMakeFiles/laboratory_work_1_2.dir/MeshLoader.cpp.obj	e68e04b283f8b22e
+716	988	592574938	laboratory_work_1_2.exe	335a7e53a43f83a4

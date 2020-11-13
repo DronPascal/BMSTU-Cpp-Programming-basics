@@ -1,0 +1,15 @@
+﻿Сборка начата 12.03.2019 14:07:11.
+     1>Проект "C:\Users\User\Desktop\Лаба 1\MergeSortSLib\MergeSortSLib\MergeSortSLib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MainSLib.cpp
+         MainSLib.cpp
+     1>c:\users\user\desktop\лаба 1\mergesortslib\mergesortslib\mainslib.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\лаба 1\mergesortslib\mergesortslib\mainslib.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\User\Desktop\Лаба 1\MergeSortSLib\Debug\MergeSortSLib.lib" /NOLOGO Debug\MainSLib.obj
+         MergeSortSLib.vcxproj -> C:\Users\User\Desktop\Лаба 1\MergeSortSLib\Debug\MergeSortSLib.lib
+     1>Построение проекта "C:\Users\User\Desktop\Лаба 1\MergeSortSLib\MergeSortSLib\MergeSortSLib.vcxproj" завершено (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.29
